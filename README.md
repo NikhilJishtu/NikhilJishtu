@@ -1,3 +1,13 @@
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nikhil Jishtu
+=====================================================================================================================================
+
+Software Developer 👨🏻‍💻
+--------------------------
+
+*   🌍  I'm based in The Netherlands 🇳🇱
+*   🖥️  See my portfolio at [My portfolio](http://87248.stu.sd-lab.nl/portfolio/Website/index/username.html)
+*   ✉️  You can contact me at [nikhiljishtu@hotmail.com](mailto:nikhiljishtu@hotmail.com)
+
 # ⚡️ About Me:
 🔭 My name is Nikhil Jishtu. I am 18 years old and live in The Netherlands. 🇳🇱<br>I study software development and have a passion for technology. 👨🏻‍💻<br>I'm always looking for ways to improve myself, and like a good challenge. I like to workout 🏋🏻‍♂️, watch tennis 🎾<br>and make music 🎶 in my spare time.<br>
 
