@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer 👨🏻‍💻
 --------------------------
 
-🖥️  See my portfolio at [My portfolio](http://87248.stu.sd-lab.nl/portfolio/Website/index/username.html)<br>
+🖥️  See my portfolio at [My portfolio](http://87248.stu.sd-lab.nl/portfolio/index/username.html)<br>
 ✉️  You can contact me at [nikhiljishtu@hotmail.com](mailto:nikhiljishtu@hotmail.com)
 
 
