@@ -9,7 +9,7 @@ Software Developer 👨🏻‍💻
 
 
 # ⚡️ About Me:
-🔭 My name is Nikhil Jishtu. I am 18 years old and live in The Netherlands. 🇳🇱<br>I study software development and have a passion for technology. 👨🏻‍💻<br>I'm always looking for ways to improve myself, and like a good challenge. I like to workout 🏋🏻‍♂️, play and watch tennis 🎾<br>and make music 🎶 in my spare time.<br>
+🔭 My name is Nikhil Jishtu. I am 19 years old and live in The Netherlands. 🇳🇱<br>I study software development and have a passion for technology. 👨🏻‍💻<br>I'm always looking for ways to improve myself, and like a good challenge. I like to workout 🏋🏻‍♂️, play and watch tennis 🎾<br>and make music 🎶 in my spare time.<br>
 
 
 ## 🌐 Socials:
