@@ -5,11 +5,11 @@ Software Developer 👨🏻‍💻
 --------------------------
 
 🖥️  See my portfolio at [my portfolio](https://nikhiljishtu.com)<br>
-✉️  You can contact me at [nikhil@nikhiljishtu.com](mailto:nikhil@nikhiljishtu.com)
+✉️  You can contact me at [nikhiljishtu@hotmail.com](mailto:nikhiljishtu@hotmail.com)
 
 
 # ⚡️ About Me:
-🔭 My name is Nikhil Jishtu. I am 20 years old and live in The Netherlands. 🇳🇱<br>I study software development and have a passion for technology. 👨🏻‍💻<br>I'm always looking for ways to improve myself, and like a good challenge. I like to workout 🏋🏻‍♂️, play and watch tennis 🎾<br>and make music 🎶 in my spare time.<br>
+🔭 My name is Nikhil Jishtu. I am 21 years old and live in The Netherlands. 🇳🇱<br>I study software development and have a passion for technology. 👨🏻‍💻<br>I'm always looking for ways to improve myself, and like a good challenge. I like to workout 🏋🏻‍♂️, play and watch tennis 🎾<br>and make music 🎶 in my spare time.<br>
 
 
 ## 🌐 Socials:
